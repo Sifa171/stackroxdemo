@@ -7,4 +7,4 @@
     # Define the working directory
     WORKDIR /home/jboss
     # Define run cmd
-    CMD ["/opt/jws-5.5/tomcat/bin/launch.sh"]
+    CMD ["/opt/jws-5.4/tomcat/bin/launch.sh"]
