@@ -5,7 +5,7 @@
 
 ## START target image jboss-webserver-5/webserver55-openjdk8-tomcat9-rhel8-openshift:1.0
 ## \
-    FROM jboss-webserver-5/webserver55-openjdk8-tomcat9-rhel8:5.5.0
+    FROM registry.redhat.io/jboss-webserver-5/webserver55-openjdk8-tomcat9-rhel8:5.5.0
 
     USER root
 
